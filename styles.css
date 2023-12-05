@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #dd9999;
     color: #fff;
     padding: 10px 20px;
     text-align: center;
@@ -74,6 +74,6 @@ form {
 footer {
     text-align: center;
     padding: 10px 20px;
-    background-color: #333;
+    background-color: #cf9393;
     color: #fff;
 }
